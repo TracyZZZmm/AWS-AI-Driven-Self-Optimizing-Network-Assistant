@@ -67,7 +67,7 @@ RAN / Transport → S3 (Unified Schema) → Lambda + AgentCore → DynamoDB + S3
 ---
 
 ## 🧪 Demo Video
-🎥 [View the 1-minute demo](Demo)  
+🎥 [View the 1-minute demo](Demo.mp4)  
 _“Upload → Detect → Optimize → Audit” in real-time._
 
 ---
